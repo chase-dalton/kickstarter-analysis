@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to analyze the various theater-related fundraising campaigns based on their respective launch dates and funding goals for Louise. By comparing these dimensions of these campaigns, we can observe trends and insights that may help explain as to why certain theater productions succeeded where others failed.
+The purpose of this project is to analyze the various theater-related fundraising campaigns based on their respective launch dates and funding goals for Louise. By comparing the dimensions of these campaigns, we can observe trends and insights that may help explain as to why certain theater productions succeeded where others failed.
 
 ## Analysis and Challenges
 
@@ -41,8 +41,8 @@ Another challenge comes just from the nature of Excel reporting. The logic and c
 - What are some limitations of this dataset?
   - The data is only so representative of the entirety of Kickstarter's data. While it is of a decent sample size where we can take comfort in our conclusions having some validity, it is only so representative of the entirety of data out there, meaning that our conclusion may only be true to the particular subset of data we analyzed as opposed to being truly valid of the entire population of data. 
   
-  - Another limitations is regarding Kickstarter campaigns that had significantly higher goal amounts set. While there were many rows of data related to campaigns with lower goal amounts, there is significantly less data with goals that are quite high. For example with the "Outcomes Based on Goals" sheet, one can see that there is only 1 campaign that had a goal between $45000 to $49999, while there were 534 campaigns in the $1000 to $4999 range. This disparity needs to be taken into account when analyzing the data.
+  - Another limitation is regarding Kickstarter campaigns that had significantly higher goal amounts set. While there were many rows of data related to campaigns with lower goal amounts, there is significantly less data with goals that are quite high. For example with the "Outcomes Based on Goals" sheet, one can see that there is only 1 campaign that had a goal between $45000 to $49999, while there were 534 campaigns in the $1000 to $4999 range. This disparity needs to be taken into account when analyzing the data.
 
 - What are some other possible tables and/or graphs that we could create?
-  - The main dimensions of the Kickstarter data that was analyzed for Louise were Outcomes based on their goal amount and launch date. There are other dimensions in the data that weren't the focus of this current analysis that could be informational. For example, a table comparing outcomes with regards to campaigns being staff picks or not to see if the staff pick had any influence of success rates in campaigns could be insightful. Or looking at not just launch dates, but how long campaigns ran for and see if that had any bearing on success rates. A line graph with the volume of outcomes mapped over a time series could also be very insightful.  
+  - The main dimensions of the Kickstarter data that was analyzed for Louise were outcomes based on their goal amount and launch date. There are other dimensions in the data that weren't the focus of this current analysis that could be informational. For example, a table comparing outcomes with regards to campaigns being staff picks or not to see if the staff pick had any influence of success rates could be insightful. Or looking at not just launch dates, but how long campaigns ran for and see if that had any bearing on success rates. Charting that on a line graph with the volume of outcomes mapped over time could also be very insightful.  
 
